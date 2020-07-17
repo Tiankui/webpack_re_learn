@@ -9,7 +9,7 @@
     "css-loader": "^3.1.0",
     "csv-loader": "^3.0.2",
     "file-loader": "^4.1.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "style-loader": "^0.23.1",
     "webpack": "^4.36.1",
     "webpack-cli": "^3.3.6",
